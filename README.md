@@ -1,4 +1,4 @@
-#Project Overview
+#Project Description
 
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. The whole project has two major intentions to implement:
 
