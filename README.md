@@ -1,4 +1,5 @@
 #Project Overview
+
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. The whole project has two major intentions to implement:
 
 Hosting a static website on S3 and
@@ -13,6 +14,7 @@ You will speed up content delivery using AWS’s content distribution network se
 You will access your website in a browser using the unique CloudFront endpoint.
 
 #Websites URLs:
-	Website endpoint: http://my-412395406531-bucket.s3-website-us-east-1.amazonaws.com
-	Access the bucket object via its S3 object URL: https://my-412395406531-bucket.s3.amazonaws.com/index.html
-	CloudFront endpoint: https://d2l9nivcxk4b7x.cloudfront.net
+
+Website endpoint: http://my-412395406531-bucket.s3-website-us-east-1.amazonaws.com
+Access the bucket object via its S3 object URL: https://my-412395406531-bucket.s3.amazonaws.com/index.html
+CloudFront endpoint: https://d2l9nivcxk4b7x.cloudfront.net
